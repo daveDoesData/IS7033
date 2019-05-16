@@ -1,2 +1,2 @@
 # IS7033
-Data Analytics Seminar Spring 2019
+Spring 2019: Deep Learning Seminar @ UTSA
